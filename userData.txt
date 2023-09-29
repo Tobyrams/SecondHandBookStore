@@ -1,0 +1,5 @@
+"Kyle","Doe","KyleDoe@gmail.com","e10adc3949ba59abbe56e057f20f883e","admin"
+"Joe","Doe","jdoe@gmail.com","e10adc3949ba59abbe56e057f20f883e","user"
+"Toby","Ramsey","TRamsey@gmail.com","e10adc3949ba59abbe56e057f20f883e","user"
+"Katlin","Smith","kSmith@hotmail.com","e10adc3949ba59abbe56e057f20f883e","user"
+"Jason","Wright","JWright@gmail.com","e10adc3949ba59abbe56e057f20f883e","user"
