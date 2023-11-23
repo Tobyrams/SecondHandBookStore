@@ -8,8 +8,6 @@ BookTrekkers is a web platform designed for students to buy and sell secondhand 
 
 - **User Authentication:** Secure user accounts with login and registration functionality.
 - **Book Listings:** Allow users to list their textbooks for sale, including details such as title, author, condition, and price.
-- **Search and Filter:** Enable users to easily search for specific textbooks or filter listings based on criteria such as subject, author, or price.
-- **Messaging System:** Facilitate communication between buyers and sellers through an integrated messaging system.
 - **Transaction History:** Provide users with a record of their past transactions for reference.
 
 ## Video Demo
