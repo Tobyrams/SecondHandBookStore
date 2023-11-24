@@ -1,8 +1,10 @@
 
 
 # BookTrekkers
+<img src="BooktrekkerLogo.jfif" alt="BootrekkerLogo" width="100"/>
 
 BookTrekkers is a web platform designed for students to buy and sell secondhand textbooks within their schools. The goal of this project is to create a convenient and cost-effective solution for students to exchange textbooks, helping them save money and reduce waste.
+
 
 ## Features
 
