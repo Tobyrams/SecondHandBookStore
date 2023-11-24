@@ -15,5 +15,10 @@ BookTrekkers is a web platform designed for students to buy and sell secondhand 
 ## Video Demo
 
 [![SecondHandBookStore Demo](https://github.com/Tobyrams/DigitalResume/blob/main/assets/BookStore.png)](https://youtu.be/Sob6TSLgPwc?si=SqAIdXXGtgbZHcYK)
-
 Click the image above 👆🏽 to watch a demo of SecondHandBookStore in action.
+
+### Languages & Tools:
+
+![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logoColor=orange)
+![Static Badge](https://img.shields.io/badge/CSS-purple?style=for-the-badge&logoColor=purple)
+![Static Badge](https://img.shields.io/badge/PHP-darkblue?style=for-the-badge&logoColor=darkblue)
