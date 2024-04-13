@@ -38,7 +38,7 @@ C:\xampp\htdocs
   1.  Now go to phpmyadmin in xampp by clicking Admin of “MySQL” by the Actions section or paste the following into the browser URL: 
   
 ```
-  http://localhost/phpmyadmin/.
+  http://localhost/phpmyadmin/
 ```
   2. Now that phpMyAdmin is open click the tab at the top that says SQL and paste the following and click the ‘Go’ button at the bottom in the blue background:
 ```
@@ -81,7 +81,7 @@ CREATE TABLE tblorder(
 );
 ```
   
-  5.  Now navigate into the tbluser table in the sidebar to the left and the table will be empty as illistrated in the following:
+  5.  Now navigate into the 'tbluser' table in the sidebar to the left and the table will be empty as illustrated in the following:
    ![image](https://github.com/Tobyrams/SecondHandBookStore/assets/87528122/7e863b67-3a3b-4667-9313-78fca6da8f32)
   
   6.  Now redirect back to the application and click on the “Create an account” which will direct us to the Register page.
